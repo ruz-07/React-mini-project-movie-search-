@@ -116,7 +116,7 @@ const API_KEY = "YOUR_API_KEY";
 -  Trending Movies
 -  Popular Movies
 -  Search History
--  Better Error Handling
+
 
 ---
 
