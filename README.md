@@ -12,7 +12,6 @@ A modern and responsive **Movie Search Application** built with **React.js** tha
 -  Show movie details
 -  Fast search experience
 -  Fully Responsive Design
--  Clean and Modern UI
 -  Dynamic API Integration
 
 ---
